@@ -8,6 +8,12 @@ authors = ["Álvaro González <45352512+gonz0wsky@users.noreply.github.com>"]
 python = "^3.10"
 Django = "^4.1.2"
 psycopg2-binary = "^2.9.4"
+strawberry-graphql = "^0.134.3"
+strawberry-graphql-django = "^0.7"
+starlette = "^0.21.0"
+bcrypt = "^4.0.1"
+jose = "^1.0.0"
+PyJWT = "^2.5.0"
 
 [tool.poetry.dev-dependencies]
 
